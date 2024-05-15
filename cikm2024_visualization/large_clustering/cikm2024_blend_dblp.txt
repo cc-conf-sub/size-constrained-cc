@@ -1,0 +1,570 @@
+Start: k = 10000
+Finish
+
+LocalSearch(0) times: 
+1612.0 1367.0 1395.0 1503.0 1281.0 1268.0 1317.0 1313.0 1304.0 1301.0 
+
+LocalSearch(0) scores: 
+4844035 4857964 4860819 4873110 4851015 4855544 4858468 4852314 4841883 4850900 
+
+LocalSearch(1) times: 
+120002.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+4601686 4599319 4600101 4599967 4601651 4603143 4600709 4600610 4599852 4600812 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+4844035 4857964 4860819 4873110 4851015 4855544 4858468 4852314 4841883 4850900 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+4844035 4857964 4860819 4873110 4851015 4855544 4858468 4852314 4841883 4850900 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+4844035 4857964 4860819 4873110 4851015 4855544 4858468 4852314 4841883 4850900 
+
+Average LocalSearch(0) time: 1.3661
+Average LocalSearch(1) time: 120.0011
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 4854605.2
+Average LocalSearch(1) score: 4600785.0
+Average LocalSearch(5) score: 4854605.2
+Average LocalSearch(10) score: 4854605.2
+Average LocalSearch(-1) score: 4854605.2
+
+Average LocalSearch(0) num clusters: 10000.0
+Average LocalSearch(1) num clusters: 10000.0
+Average LocalSearch(5) num clusters: 10000.0
+Average LocalSearch(10) num clusters: 10000.0
+Average LocalSearch(-1) num clusters: 10000.0
+
+Average LocalSearch(0) max cluster size: 132.8
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 132.8
+Average LocalSearch(10) max cluster size: 132.8
+Average LocalSearch(-1) max cluster size: 132.8
+
+Start: k = 20000
+Finish
+
+LocalSearch(0) times: 
+2309.0 2327.0 2358.0 2322.0 2345.0 2310.0 2477.0 2342.0 2328.0 2370.0 
+
+LocalSearch(0) scores: 
+2473481 2465819 2459673 2447330 2491772 2498504 2469460 2479167 2460900 2474427 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+2201322 2200115 2200604 2200286 2199231 2199627 2199832 2200778 2200494 2199981 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+2473481 2465819 2459673 2447330 2491772 2498504 2469460 2479167 2460900 2474427 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+2473481 2465819 2459673 2447330 2491772 2498504 2469460 2479167 2460900 2474427 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+2473481 2465819 2459673 2447330 2491772 2498504 2469460 2479167 2460900 2474427 
+
+Average LocalSearch(0) time: 2.3487999999999998
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 2472053.3
+Average LocalSearch(1) score: 2200227.0
+Average LocalSearch(5) score: 2472053.3
+Average LocalSearch(10) score: 2472053.3
+Average LocalSearch(-1) score: 2472053.3
+
+Average LocalSearch(0) num clusters: 20000.0
+Average LocalSearch(1) num clusters: 20000.0
+Average LocalSearch(5) num clusters: 20000.0
+Average LocalSearch(10) num clusters: 20000.0
+Average LocalSearch(-1) num clusters: 20000.0
+
+Average LocalSearch(0) max cluster size: 131.1
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 131.1
+Average LocalSearch(10) max cluster size: 131.1
+Average LocalSearch(-1) max cluster size: 131.1
+
+Start: k = 30000
+Finish
+
+LocalSearch(0) times: 
+3981.0 3433.0 3482.0 3401.0 3246.0 3638.0 3247.0 3334.0 3275.0 3584.0 
+
+LocalSearch(0) scores: 
+1751941 1739350 1747797 1744019 1739102 1749017 1743168 1753999 1746111 1748129 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+1453836 1452634 1453425 1453721 1453670 1452833 1453218 1453809 1452792 1453614 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1751941 1739350 1747797 1744019 1739102 1749017 1743168 1753999 1746111 1748129 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1751941 1739350 1747797 1744019 1739102 1749017 1743168 1753999 1746111 1748129 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1751941 1739350 1747797 1744019 1739102 1749017 1743168 1753999 1746111 1748129 
+
+Average LocalSearch(0) time: 3.4620999999999995
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 1746263.3
+Average LocalSearch(1) score: 1453355.2
+Average LocalSearch(5) score: 1746263.3
+Average LocalSearch(10) score: 1746263.3
+Average LocalSearch(-1) score: 1746263.3
+
+Average LocalSearch(0) num clusters: 30000.0
+Average LocalSearch(1) num clusters: 30000.0
+Average LocalSearch(5) num clusters: 30000.0
+Average LocalSearch(10) num clusters: 30000.0
+Average LocalSearch(-1) num clusters: 30000.0
+
+Average LocalSearch(0) max cluster size: 136.9
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 136.9
+Average LocalSearch(10) max cluster size: 136.9
+Average LocalSearch(-1) max cluster size: 136.9
+
+Start: k = 40000
+Finish
+
+LocalSearch(0) times: 
+3961.0 4253.0 4091.0 4590.0 3758.0 3705.0 3660.0 3988.0 3818.0 3735.0 
+
+LocalSearch(0) scores: 
+1401882 1403389 1393049 1408718 1414454 1422616 1409885 1406643 1403465 1425706 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+1108185 1109171 1108758 1108874 1109025 1108473 1108394 1108365 1108944 1108427 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1401882 1403389 1393049 1408718 1414454 1422616 1409885 1406643 1403465 1425706 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1401882 1403389 1393049 1408718 1414454 1422616 1409885 1406643 1403465 1425706 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1401882 1403389 1393049 1408718 1414454 1422616 1409885 1406643 1403465 1425706 
+
+Average LocalSearch(0) time: 3.9558999999999997
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 1408980.7
+Average LocalSearch(1) score: 1108661.6
+Average LocalSearch(5) score: 1408980.7
+Average LocalSearch(10) score: 1408980.7
+Average LocalSearch(-1) score: 1408980.7
+
+Average LocalSearch(0) num clusters: 40000.0
+Average LocalSearch(1) num clusters: 40000.0
+Average LocalSearch(5) num clusters: 40000.0
+Average LocalSearch(10) num clusters: 40000.0
+Average LocalSearch(-1) num clusters: 40000.0
+
+Average LocalSearch(0) max cluster size: 132.5
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 132.5
+Average LocalSearch(10) max cluster size: 132.5
+Average LocalSearch(-1) max cluster size: 132.5
+
+Start: k = 50000
+Finish
+
+LocalSearch(0) times: 
+4497.0 4195.0 4309.0 3862.0 3793.0 4189.0 4262.0 3867.0 4052.0 3772.0 
+
+LocalSearch(0) scores: 
+1229724 1235652 1228706 1233280 1251653 1216194 1274687 1217493 1246007 1230713 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+930648 929911 930829 929944 930759 928647 929808 930122 931014 929892 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1229724 1235652 1228706 1233280 1251653 1216194 1274687 1217493 1246007 1230713 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1229724 1235652 1228706 1233280 1251653 1216194 1274687 1217493 1246007 1230713 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1229724 1235652 1228706 1233280 1251653 1216194 1274687 1217493 1246007 1230713 
+
+Average LocalSearch(0) time: 4.0798
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 1236410.9
+Average LocalSearch(1) score: 930157.4
+Average LocalSearch(5) score: 1236410.9
+Average LocalSearch(10) score: 1236410.9
+Average LocalSearch(-1) score: 1236410.9
+
+Average LocalSearch(0) num clusters: 50000.0
+Average LocalSearch(1) num clusters: 50000.0
+Average LocalSearch(5) num clusters: 50000.0
+Average LocalSearch(10) num clusters: 50000.0
+Average LocalSearch(-1) num clusters: 50000.0
+
+Average LocalSearch(0) max cluster size: 141.5
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 141.5
+Average LocalSearch(10) max cluster size: 141.5
+Average LocalSearch(-1) max cluster size: 141.5
+
+Start: k = 60000
+Finish
+
+LocalSearch(0) times: 
+4364.0 3568.0 3502.0 4123.0 4093.0 4831.0 4087.0 3941.0 3661.0 4239.0 
+
+LocalSearch(0) scores: 
+1130594 1148473 1152238 1124293 1137043 1122483 1137109 1133721 1143971 1151560 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+814585 814869 814478 814818 815133 814955 814971 814647 814573 814802 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1130594 1148473 1152238 1124293 1137043 1122483 1137109 1133721 1143971 1151560 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1130594 1148473 1152238 1124293 1137043 1122483 1137109 1133721 1143971 1151560 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1130594 1148473 1152238 1124293 1137043 1122483 1137109 1133721 1143971 1151560 
+
+Average LocalSearch(0) time: 4.0409
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 1138148.5
+Average LocalSearch(1) score: 814783.1
+Average LocalSearch(5) score: 1138148.5
+Average LocalSearch(10) score: 1138148.5
+Average LocalSearch(-1) score: 1138148.5
+
+Average LocalSearch(0) num clusters: 60000.0
+Average LocalSearch(1) num clusters: 60000.0
+Average LocalSearch(5) num clusters: 60000.0
+Average LocalSearch(10) num clusters: 60000.0
+Average LocalSearch(-1) num clusters: 60000.0
+
+Average LocalSearch(0) max cluster size: 144.1
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 144.1
+Average LocalSearch(10) max cluster size: 144.1
+Average LocalSearch(-1) max cluster size: 144.1
+
+Start: k = 70000
+Finish
+
+LocalSearch(0) times: 
+3580.0 3536.0 3407.0 3425.0 3718.0 3391.0 3200.0 4166.0 3417.0 3678.0 
+
+LocalSearch(0) scores: 
+1081910 1076820 1065487 1053814 1080707 1059486 1063525 1070089 1080116 1070767 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+744299 743813 743891 744053 743810 743752 744041 744094 744090 743863 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1081910 1076820 1065487 1053814 1080707 1059486 1063525 1070089 1080116 1070767 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1081910 1076820 1065487 1053814 1080707 1059486 1063525 1070089 1080116 1070767 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1081910 1076820 1065487 1053814 1080707 1059486 1063525 1070089 1080116 1070767 
+
+Average LocalSearch(0) time: 3.5518
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 1070272.1
+Average LocalSearch(1) score: 743970.6
+Average LocalSearch(5) score: 1070272.1
+Average LocalSearch(10) score: 1070272.1
+Average LocalSearch(-1) score: 1070272.1
+
+Average LocalSearch(0) num clusters: 70000.0
+Average LocalSearch(1) num clusters: 70000.0
+Average LocalSearch(5) num clusters: 70000.0
+Average LocalSearch(10) num clusters: 70000.0
+Average LocalSearch(-1) num clusters: 70000.0
+
+Average LocalSearch(0) max cluster size: 125.9
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 125.9
+Average LocalSearch(10) max cluster size: 125.9
+Average LocalSearch(-1) max cluster size: 125.9
+
+Start: k = 80000
+Finish
+
+LocalSearch(0) times: 
+2706.0 3352.0 2976.0 2837.0 2891.0 3391.0 3477.0 3045.0 2772.0 2748.0 
+
+LocalSearch(0) scores: 
+1031622 1026837 1054226 1042771 1039474 1054582 1034144 1037102 1036796 1040565 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+699835 699954 700376 700183 700039 700411 700226 700362 700089 699988 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1031622 1026837 1054226 1042771 1039474 1054582 1034144 1037102 1036796 1040565 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1031622 1026837 1054226 1042771 1039474 1054582 1034144 1037102 1036796 1040565 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1031622 1026837 1054226 1042771 1039474 1054582 1034144 1037102 1036796 1040565 
+
+Average LocalSearch(0) time: 3.0195
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 1039811.9
+Average LocalSearch(1) score: 700146.3
+Average LocalSearch(5) score: 1039811.9
+Average LocalSearch(10) score: 1039811.9
+Average LocalSearch(-1) score: 1039811.9
+
+Average LocalSearch(0) num clusters: 80000.0
+Average LocalSearch(1) num clusters: 80000.0
+Average LocalSearch(5) num clusters: 80000.0
+Average LocalSearch(10) num clusters: 80000.0
+Average LocalSearch(-1) num clusters: 80000.0
+
+Average LocalSearch(0) max cluster size: 142.3
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 142.3
+Average LocalSearch(10) max cluster size: 142.3
+Average LocalSearch(-1) max cluster size: 142.3
+
+Start: k = 90000
+Finish
+
+LocalSearch(0) times: 
+2125.0 2230.0 2171.0 2237.0 2599.0 3023.0 2499.0 2092.0 2280.0 2206.0 
+
+LocalSearch(0) scores: 
+1009823 1013372 998832 1007539 1038996 1035825 1006198 1018333 1009312 1001993 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+669068 669256 669415 669301 668965 669011 669439 669352 669417 669251 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1009823 1013372 998832 1007539 1038996 1035825 1006198 1018333 1009312 1001993 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1009823 1013372 998832 1007539 1038996 1035825 1006198 1018333 1009312 1001993 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1009823 1013372 998832 1007539 1038996 1035825 1006198 1018333 1009312 1001993 
+
+Average LocalSearch(0) time: 2.3462
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 1014022.3
+Average LocalSearch(1) score: 669247.5
+Average LocalSearch(5) score: 1014022.3
+Average LocalSearch(10) score: 1014022.3
+Average LocalSearch(-1) score: 1014022.3
+
+Average LocalSearch(0) num clusters: 90000.0
+Average LocalSearch(1) num clusters: 90000.0
+Average LocalSearch(5) num clusters: 90000.0
+Average LocalSearch(10) num clusters: 90000.0
+Average LocalSearch(-1) num clusters: 90000.0
+
+Average LocalSearch(0) max cluster size: 157.9
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 157.9
+Average LocalSearch(10) max cluster size: 157.9
+Average LocalSearch(-1) max cluster size: 157.9
+
+Start: k = 100000
+Finish
+
+LocalSearch(0) times: 
+2224.0 1785.0 2168.0 1675.0 1902.0 2216.0 2118.0 1605.0 2385.0 2158.0 
+
+LocalSearch(0) scores: 
+1020067 983195 977610 978211 1026878 1016111 982020 987429 995383 989632 
+
+LocalSearch(1) times: 
+120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 120001.0 
+
+LocalSearch(1) scores: 
+647674 647933 647744 647484 648088 647722 647906 647840 647779 647805 
+
+LocalSearch(5) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(5) scores: 
+1020067 983195 977610 978211 1026878 1016111 982020 987429 995383 989632 
+
+LocalSearch(10) times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(10) scores: 
+1020067 983195 977610 978211 1026878 1016111 982020 987429 995383 989632 
+
+LocalSearch(-1)  times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+LocalSearch(-1) scores: 
+1020067 983195 977610 978211 1026878 1016111 982020 987429 995383 989632 
+
+Average LocalSearch(0) time: 2.0236
+Average LocalSearch(1) time: 120.001
+Average LocalSearch(5) time: 0.0
+Average LocalSearch(10) time: 0.0
+Average LocalSearch(-1) time: 0.0
+
+Average LocalSearch(0) score: 995653.6
+Average LocalSearch(1) score: 647797.5
+Average LocalSearch(5) score: 995653.6
+Average LocalSearch(10) score: 995653.6
+Average LocalSearch(-1) score: 995653.6
+
+Average LocalSearch(0) num clusters: 100000.0
+Average LocalSearch(1) num clusters: 100000.0
+Average LocalSearch(5) num clusters: 100000.0
+Average LocalSearch(10) num clusters: 100000.0
+Average LocalSearch(-1) num clusters: 100000.0
+
+Average LocalSearch(0) max cluster size: 159.9
+Average LocalSearch(1) max cluster size: 115.0
+Average LocalSearch(5) max cluster size: 159.9
+Average LocalSearch(10) max cluster size: 159.9
+Average LocalSearch(-1) max cluster size: 159.9
+

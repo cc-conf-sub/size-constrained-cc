@@ -1,0 +1,64 @@
+PS C:\Users\10502190\Desktop\research_code\or-tools>  & 'C:\Users\10502190\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin\java.exe' '@C:\Users\10502190\AppData\Local\Temp\cp_9794tkz2bzrpy6xccvl824v1g.argfile' 'com.google.ortools.RunUniformILP' 
+Data set with 94 nodes
+Start: k = 2
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 418.0
+Total time: 2.036
+
+Start: k = 3
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 373.0
+Total time: 12.748
+
+Start: k = 4
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 329.0
+Total time: 30.484
+
+Start: k = 5
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 290.0000000000002
+Total time: 423.829
+
+Start: k = 6
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 259.0
+Total time: 390.952
+
+Start: k = 7
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 233.00000000000023
+Total time: 295.795
+
+Start: k = 8
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 214.0
+Total time: 884.388
+
+Start: k = 9
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 201.0
+Total time: 464.735
+
+Start: k = 10
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 191.0
+Total time: 796.477

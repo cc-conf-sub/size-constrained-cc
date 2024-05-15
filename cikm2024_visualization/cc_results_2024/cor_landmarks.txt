@@ -1,0 +1,423 @@
+PS C:\Users\natha\Desktop\code_projects\cc_size_constraint>  c:; cd 'c:\Users\natha\Desktop\code_projects\cc_size_constraint'; & 'C:\Users\natha\AppData\Local\Programs\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java.exe' '-Xmx2G' '-cp' 'C:\Users\natha\AppData\Roaming\Code\User\workspaceStorage\5ec903fdc5b114a721bd69a8be3040e9\redhat.java\jdt_ws\cc_size_constraint_9df8f966\bin' 'RunMaxKCorrelation' 
+Start: k = 2
+Finish
+
+Pivot times:
+20.0 14.0 16.0 0.0 0.0 0.0 15.0 0.0 0.0 8.0
+
+Pivot scores:
+30119 30119 30118 30118 30119 30118 30118 30118 30118 30118 
+
+PLS times:
+140.0 32.0 21.0 15.0 46.0 15.0 32.0 30.0 24.0 32.0
+
+PLS scores:
+30118 30119 30118 30118 30119 30118 30118 30118 30118 30118
+
+Vote times:
+189.0 70.0 16.0 16.0 16.0 16.0 0.0 10.0 39.0 26.0 
+
+Vote scores: 
+30118 30118 30118 30118 30119 30118 30119 30118 30118 30118
+
+VLS times: 
+141.0 15.0 31.0 22.0 16.0 32.0 26.0 16.0 19.0 31.0
+
+VLS scores:
+30118 30118 30118 30118 30119 30118 30119 30118 30118 30118
+
+Average Pivot time: 0.007300000000000001
+Average PLS time: 0.03870000000000001
+Average Vote time: 0.03980000000000001
+Average VLS time: 0.03490000000000001
+
+Average Pivot score: 30118.3
+Average PLS score: 30118.2
+Average Vote score: 30118.2
+Average VLS score: 30118.2
+
+Average Pivot num clusters: 133.3
+Average PLS num clusters: 133.2
+Average Vote num clusters: 133.2
+Average VLS num clusters: 133.2
+
+Average Pivot max cluster size: 2.0
+Average PLS max cluster size: 2.0
+Average Vote max cluster size: 2.0
+Average VLS max cluster size: 2.0
+
+Start: k = 3
+Finish
+
+Pivot times:
+33.0 0.0 0.0 0.0 0.0 16.0 16.0 16.0 3.0 8.0 
+
+Pivot scores:
+30000 30002 30007 30005 29997 30000 30007 30014 30003 30006
+
+PLS times:
+56.0 32.0 29.0 40.0 58.0 31.0 83.0 64.0 16.0 47.0 
+
+PLS scores:
+29990 29988 29988 29986 29988 29986 29988 29986 29993 29988 
+
+Vote times: 
+24.0 15.0 7.0 7.0 16.0 15.0 0.0 24.0 24.0 0.0 
+
+Vote scores: 
+30015 30024 30030 30010 30019 30010 30027 30012 30020 30022
+
+VLS times: 
+48.0 31.0 23.0 47.0 27.0 47.0 72.0 48.0 47.0 47.0 
+
+VLS scores:
+29986 29988 29988 29986 29988 29986 29986 29987 29988 29986
+
+Average Pivot time: 0.0092
+Average PLS time: 0.0456
+Average Vote time: 0.0132
+Average VLS time: 0.0437
+
+Average Pivot score: 30004.1
+Average PLS score: 29988.1
+Average Vote score: 30018.9
+Average VLS score: 29986.9
+
+Average Pivot num clusters: 89.5
+Average PLS num clusters: 89.1
+Average Vote num clusters: 89.3
+Average VLS num clusters: 89.2
+
+Average Pivot max cluster size: 3.0
+Average PLS max cluster size: 3.0
+Average Vote max cluster size: 3.0
+Average VLS max cluster size: 3.0
+
+Start: k = 4
+Finish
+
+Pivot times:
+17.0 19.0 8.0 0.0 0.0 0.0 0.0 0.0 8.0 0.0
+
+Pivot scores:
+29907 29903 29907 29901 29895 29901 29892 29888 29891 29894
+
+PLS times:
+155.0 95.0 40.0 48.0 27.0 31.0 33.0 15.0 24.0 52.0
+
+PLS scores:
+29861 29863 29854 29857 29856 29857 29857 29854 29862 29857
+
+Vote times:
+13.0 12.0 8.0 0.0 7.0 0.0 16.0 16.0 0.0 0.0
+
+Vote scores:
+29918 29921 29906 29896 29921 29916 29912 29916 29907 29903
+
+VLS times:
+175.0 71.0 15.0 3.0 16.0 32.0 14.0 32.0 16.0 32.0
+
+VLS scores:
+29859 29856 29855 29865 29865 29857 29867 29858 29857 29863
+
+Average Pivot time: 0.005200000000000001
+Average PLS time: 0.05200000000000001
+Average Vote time: 0.007200000000000001
+Average VLS time: 0.04060000000000001
+
+Average Pivot score: 29897.9
+Average PLS score: 29857.8
+Average Vote score: 29911.6
+Average VLS score: 29860.2
+
+Average Pivot num clusters: 67.8
+Average PLS num clusters: 67.8
+Average Vote num clusters: 67.4
+Average VLS num clusters: 67.8
+
+Average Pivot max cluster size: 4.0
+Average PLS max cluster size: 4.0
+Average Vote max cluster size: 4.0
+Average VLS max cluster size: 4.0
+
+Start: k = 5
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 0.0 15.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+29795 29773 29786 29786 29785 29778 29791 29793 29806 29823
+
+PLS times:
+45.0 33.0 16.0 31.0 24.0 16.0 0.0 24.0 23.0 16.0
+
+PLS scores:
+29743 29728 29734 29740 29736 29732 29737 29731 29739 29723
+
+Vote times:
+32.0 2.0 16.0 0.0 0.0 0.0 17.0 8.0 16.0 8.0
+
+Vote scores:
+29829 29817 29801 29821 29809 29821 29798 29805 29807 29845
+
+VLS times:
+22.0 15.0 31.0 16.0 6.0 47.0 38.0 16.0 22.0 21.0
+
+VLS scores:
+29751 29727 29724 29746 29751 29725 29732 29727 29728 29733
+
+Average Pivot time: 0.0015
+Average PLS time: 0.022799999999999997
+Average Vote time: 0.0099
+Average VLS time: 0.023399999999999997
+
+Average Pivot score: 29791.6
+Average PLS score: 29734.3
+Average Vote score: 29815.3
+Average VLS score: 29734.4
+
+Average Pivot num clusters: 55.3
+Average PLS num clusters: 55.0
+Average Vote num clusters: 54.0
+Average VLS num clusters: 54.3
+
+Average Pivot max cluster size: 5.0
+Average PLS max cluster size: 5.0
+Average Vote max cluster size: 5.0
+Average VLS max cluster size: 5.0
+
+Start: k = 6
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+29701 29702 29685 29655 29699 29703 29685 29671 29683 29673
+
+PLS times:
+33.0 23.0 16.0 46.0 40.0 46.0 38.0 16.0 32.0 15.0
+
+PLS scores:
+29608 29597 29609 29603 29617 29603 29627 29599 29607 29603
+
+Vote times:
+16.0 9.0 0.0 16.0 0.0 0.0 0.0 16.0 0.0 16.0
+
+Vote scores: 
+29707 29678 29700 29679 29705 29721 29700 29680 29693 29698
+
+VLS times:
+37.0 0.0 16.0 31.0 16.0 16.0 9.0 31.0 15.0 16.0
+
+VLS scores:
+29607 29634 29610 29643 29621 29609 29681 29604 29609 29616
+
+Average Pivot time: 0.0016
+Average PLS time: 0.030500000000000006
+Average Vote time: 0.007300000000000001
+Average VLS time: 0.0187
+
+Average Pivot score: 29685.7
+Average PLS score: 29607.3
+Average Vote score: 29696.1
+Average VLS score: 29623.4
+
+Average Pivot num clusters: 46.5
+Average PLS num clusters: 46.4
+Average Vote num clusters: 45.5
+Average VLS num clusters: 46.0
+
+Average Pivot max cluster size: 6.0
+Average PLS max cluster size: 6.0
+Average Vote max cluster size: 6.0
+Average VLS max cluster size: 6.0
+
+Start: k = 7
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+29583 29567 29603 29595 29561 29573 29603 29591 29581 29591
+
+PLS times:
+33.0 25.0 16.0 8.0 45.0 8.0 31.0 16.0 16.0 15.0
+
+PLS scores:
+29481 29479 29491 29521 29471 29551 29469 29481 29491 29519
+
+Vote times:
+17.0 8.0 8.0 8.0 18.0 8.0 0.0 0.0 15.0 16.0
+
+Vote scores:
+29589 29585 29582 29589 29620 29613 29629 29633 29593 29609
+
+VLS times:
+42.0 36.0 26.0 16.0 31.0 16.0 44.0 16.0 16.0 47.0
+
+VLS scores:
+29465 29487 29493 29494 29501 29476 29469 29486 29471 29461 
+
+Average Pivot time: 0.0
+Average PLS time: 0.021300000000000003
+Average Vote time: 0.0098
+Average VLS time: 0.028999999999999998
+
+Average Pivot score: 29584.8
+Average PLS score: 29495.4
+Average Vote score: 29604.2
+Average VLS score: 29480.3
+
+Average Pivot num clusters: 39.6
+Average PLS num clusters: 39.3
+Average Vote num clusters: 38.8
+Average VLS num clusters: 39.7
+
+Average Pivot max cluster size: 7.0
+Average PLS max cluster size: 7.0
+Average Vote max cluster size: 7.0
+Average VLS max cluster size: 7.0
+
+Start: k = 8
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+
+Pivot scores:
+29467 29463 29443 29503 29477 29501 29456 29488 29462 29501
+
+PLS times:
+31.0 31.0 8.0 32.0 16.0 16.0 18.0 31.0 39.0 23.0 
+
+PLS scores:
+29404 29382 29387 29347 29354 29354 29363 29344 29341 29365 
+
+Vote times:
+0.0 0.0 0.0 0.0 15.0 15.0 0.0 0.0 0.0 0.0 
+
+Vote scores:
+29452 29486 29529 29515 29504 29466 29547 29493 29497 29498
+
+VLS times:
+17.0 40.0 8.0 16.0 16.0 16.0 28.0 16.0 25.0 32.0
+
+VLS scores:
+29398 29344 29392 29375 29353 29341 29355 29367 29339 29361
+
+Average Pivot time: 1.0E-4
+Average PLS time: 0.0245
+Average Vote time: 0.003
+Average VLS time: 0.021400000000000002
+
+Average Pivot score: 29476.1
+Average PLS score: 29364.1
+Average Vote score: 29498.7
+Average VLS score: 29362.5
+
+Average Pivot num clusters: 35.1
+Average PLS num clusters: 35.1
+Average Vote num clusters: 34.5
+Average VLS num clusters: 35.1
+
+Average Pivot max cluster size: 8.0
+Average PLS max cluster size: 8.0
+Average Vote max cluster size: 8.0
+Average VLS max cluster size: 8.0
+
+Start: k = 9
+Finish
+
+Pivot times:
+0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+29339 29355 29331 29358 29355 29377 29361 29360 29407 29373
+
+PLS times:
+24.0 20.0 8.0 0.0 32.0 20.0 24.0 16.0 17.0 16.0
+
+PLS scores:
+29274 29277 29249 29297 29269 29277 29278 29255 29242 29275
+
+Vote times:
+17.0 0.0 9.0 9.0 0.0 8.0 6.0 0.0 6.0 15.0
+
+Vote scores:
+29403 29416 29413 29405 29431 29407 29397 29434 29405 29383
+
+VLS times:
+9.0 16.0 22.0 32.0 24.0 11.0 10.0 47.0 15.0 32.0
+
+VLS scores:
+29237 29257 29281 29253 29274 29229 29271 29227 29251 29253
+
+Average Pivot time: 1.0E-4
+Average PLS time: 0.017700000000000004
+Average Vote time: 0.007000000000000001
+Average VLS time: 0.0218
+
+Average Pivot score: 29361.6
+Average PLS score: 29269.3
+Average Vote score: 29409.4
+Average VLS score: 29253.3
+
+Average Pivot num clusters: 31.9
+Average PLS num clusters: 31.8
+Average Vote num clusters: 30.8
+Average VLS num clusters: 31.6
+
+Average Pivot max cluster size: 9.0
+Average PLS max cluster size: 9.0
+Average Vote max cluster size: 9.0
+Average VLS max cluster size: 9.0
+
+Start: k = 10
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+29253 29253 29292 29253 29317 29257 29347 29272 29259 29303
+
+PLS times:
+48.0 15.0 16.0 15.0 8.0 23.0 16.0 15.0 0.0 16.0
+
+PLS scores:
+29124 29157 29127 29111 29165 29140 29127 29145 29136 29113
+
+Vote times:
+18.0 0.0 9.0 0.0 8.0 0.0 15.0 0.0 16.0 0.0
+
+Vote scores:
+29350 29338 29282 29336 29346 29317 29301 29340 29281 29342
+
+VLS times:
+26.0 33.0 16.0 44.0 15.0 9.0 17.0 16.0 15.0 34.0
+
+VLS scores:
+29117 29101 29181 29117 29202 29129 29159 29117 29115 29105
+
+Average Pivot time: 0.0
+Average PLS time: 0.017200000000000003
+Average Vote time: 0.0066
+Average VLS time: 0.022500000000000006
+
+Average Pivot score: 29280.6
+Average PLS score: 29134.5
+Average Vote score: 29323.3
+Average VLS score: 29134.3
+
+Average Pivot num clusters: 29.1
+Average PLS num clusters: 29.1
+Average Vote num clusters: 27.6
+Average VLS num clusters: 28.8
+
+Average Pivot max cluster size: 10.0
+Average PLS max cluster size: 10.0
+Average Vote max cluster size: 10.0
+Average VLS max cluster size: 10.0

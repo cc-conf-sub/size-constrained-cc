@@ -1,0 +1,208 @@
+PS C:\Users\10502190\Desktop\research_code\or-tools>  c:; cd 'c:\Users\10502190\Desktop\research_code\or-tools'; & 'C:\Users\10502190\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin\java.exe' '@C:\Users\10502190\AppData\Local\Temp\cp_9794tkz2bzrpy6xccvl824v1g.argfile' 'com.google.ortools.RunPMAlg'
+Data set with 244 nodes
+Start: k = 2
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 479.99999999967764
+Total time: 6.02
+
+Finish
+
+PM times:
+6020.0 6020.0 6038.0 6023.0 6020.0 6030.0 6024.0 6020.0 6020.0 6033.0
+
+PM scores:
+510 510 510 510 510 510 510 510 510 510
+
+Average PM time: 6.024799999999999
+
+Average PM score: 510.0
+
+Average PM num clusters: 152.0
+
+Average PM max cluster size: 2.0
+
+Start: k = 3
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 369.4999999997712
+Total time: 7.896
+
+Finish
+
+PM times:
+7896.0 7896.0 7896.0 7896.0 7896.0 7896.0 7896.0 7911.0 7899.0 7897.0
+
+PM scores:
+450 449 449 449 453 452 451 457 455 453
+
+Average PM time: 7.8979
+
+Average PM score: 451.8
+
+Average PM num clusters: 120.0
+
+Average PM max cluster size: 3.0
+
+Start: k = 4
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 277.624999999724
+Total time: 8.679
+
+Finish
+
+PM times:
+8679.0 8679.0 8679.0 8679.0 8679.0 8695.0 8679.0 8681.0 8679.0 8680.0
+
+PM scores:
+369 362 374 371 366 359 375 372 374 379
+
+Average PM time: 8.6809
+
+Average PM score: 370.1
+
+Average PM num clusters: 97.0
+
+Average PM max cluster size: 4.0
+
+Start: k = 5
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 207.70238095215373
+Total time: 8.43
+
+Finish
+
+PM times:
+8430.0 8430.0 8430.0 8430.0 8430.0 8430.0 8430.0 8430.0 8430.0 8430.0
+
+PM scores: 
+316 306 315 314 312 319 310 333 315 303
+
+Average PM time: 8.430000000000001
+
+Average PM score: 314.3
+
+Average PM num clusters: 86.7
+
+Average PM max cluster size: 5.0
+
+Start: k = 6
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 151.36470588202553
+Total time: 9.183
+
+Finish
+
+PM times: 
+9183.0 9183.0 9183.0 9183.0 9183.0 9183.0 9183.0 9183.0 9183.0 9183.0
+
+PM scores:
+202 212 220 217 215 221 227 217 219 206
+
+Average PM time: 9.182999999999998
+
+Average PM score: 215.6
+
+Average PM num clusters: 70.2
+
+Average PM max cluster size: 6.0
+
+Start: k = 7
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 115.82142857105198
+Total time: 9.924
+
+Finish
+
+PM times:
+9925.0 9925.0 9924.0 9925.0 9924.0 9925.0 9924.0 9925.0 9924.0 9925.0
+
+PM scores:
+176 168 177 211 175 176 187 157 183 178 
+
+Average PM time: 9.9246
+
+Average PM score: 178.8
+
+Average PM num clusters: 68.2
+
+Average PM max cluster size: 7.1
+
+Start: k = 8
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 93.83333333290257
+Total time: 9.56
+
+Finish
+
+PM times:
+9560.0 9560.0 9560.0 9560.0 9560.0 9560.0 9560.0 9560.0 9560.0 9560.0
+
+PM scores:
+157 148 132 144 112 137 131 149 139 120
+
+Average PM time: 9.56
+
+Average PM score: 136.9
+
+Average PM num clusters: 62.2
+
+Average PM max cluster size: 8.5
+
+Start: k = 9
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 73.16666666621258
+Total time: 10.654
+
+Finish
+
+PM times:
+10662.0 10654.0 10654.0 10654.0 10654.0 10654.0 10654.0 10654.0 10654.0 10654.0 
+
+PM scores:
+101 98 117 122 98 112 102 120 98 107
+
+Average PM time: 10.654799999999998
+
+Average PM score: 107.5
+
+Average PM num clusters: 60.3
+
+Average PM max cluster size: 9.0
+
+Start: k = 10
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 63.99999999948916
+Total time: 10.374
+
+Finish
+
+PM times:
+10374.0 10390.0 10374.0 10374.0 10374.0 10374.0 10374.0 10374.0 10374.0 10374.0 
+
+PM scores:
+91 88 97 92 71 120 96 97 76 96
+
+Average PM time: 10.3756
+
+Average PM score: 92.4
+
+Average PM num clusters: 59.7
+
+Average PM max cluster size: 10.6
