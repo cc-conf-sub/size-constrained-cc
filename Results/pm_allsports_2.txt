@@ -1,0 +1,298 @@
+PS C:\Users\10502190\Desktop\research_code\or-tools>  & 'C:\Users\10502190\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin\java.exe' '@C:\Users\10502190\AppData\Local\Temp\cp_9794tkz2bzrpy6xccvl824v1g.argfile' 'com.google.ortools.RunPMAlg' 
+Data set with 200 nodes
+Start: k = 2
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 34.499999999959755
+Total time: 5.718
+
+Finish
+
+PM times: 
+5728.0 5718.0 5733.0 5718.0 5718.0 5727.0 5728.0 5725.0 5719.0 5719.0 
+
+PM scores: 
+36 36 36 36 36 36 36 36 36 36 
+
+Improved times: 
+5718.0 5718.0 5718.0 5718.0 5734.0 5721.0 5720.0 5719.0 5720.0 5719.0
+
+Improved scores:
+35 35 35 35 35 35 35 35 35 36
+
+Average PM time: 5.7233
+Average Improved time: 5.7204999999999995
+
+Average PM score: 36.0
+Average Improved score: 35.1
+
+Average PM num clusters: 171.0
+Average Improved num clusters: 170.1
+
+Average PM max cluster size: 2.0
+Average Improved max cluster size: 2.0
+
+Start: k = 3
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 24.499999999955744
+Total time: 5.484
+
+Finish
+
+PM times:
+5486.0 5485.0 5486.0 5486.0 5485.0 5485.0 5486.0 5486.0 5487.0 5488.0
+
+PM scores:
+30 31 31 31 32 31 35 32 33 29
+
+Improved times:
+5485.0 5485.0 5486.0 5484.0 5486.0 5485.0 5485.0 5487.0 5485.0 5485.0
+
+Improved scores:
+29 29 29 31 29 30 29 30 30 29
+
+Average PM time: 5.486
+Average Improved time: 5.4853000000000005
+
+Average PM score: 31.5
+Average Improved score: 29.5
+
+Average PM num clusters: 168.3
+Average Improved num clusters: 164.2
+
+Average PM max cluster size: 3.0
+Average Improved max cluster size: 3.0
+
+Start: k = 4
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 19.999999999972665
+Total time: 9.151
+
+Finish
+
+PM times:
+9151.0 9162.0 9154.0 9153.0 9153.0 9153.0 9159.0 9152.0 9157.0 9153.0
+
+PM scores:
+30 33 32 31 29 30 30 31 32 30
+
+Improved times:
+9151.0 9153.0 9152.0 9154.0 9153.0 9151.0 9153.0 9151.0 9153.0 9152.0
+
+Improved scores:
+28 28 28 28 28 28 28 28 29 28
+
+Average PM time: 9.154700000000002
+Average Improved time: 9.1523
+
+Average PM score: 30.8
+Average Improved score: 28.1
+
+Average PM num clusters: 166.6
+Average Improved num clusters: 162.1
+
+Average PM max cluster size: 4.0
+Average Improved max cluster size: 4.0
+
+Start: k = 5
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 18.99999999995299
+Total time: 7.347
+
+Finish
+
+PM times:
+7347.0 7364.0 7349.0 7352.0 7355.0 7347.0 7355.0 7348.0 7354.0 7350.0
+
+PM scores:
+29 30 29 34 34 32 30 29 30 32
+
+Improved times:
+7347.0 7349.0 7348.0 7348.0 7349.0 7347.0 7348.0 7347.0 7348.0 7347.0
+
+Improved scores:
+28 28 29 29 29 28 29 28 28 28
+
+Average PM time: 7.3521
+Average Improved time: 7.347799999999999
+
+Average PM score: 30.9
+Average Improved score: 28.4
+
+Average PM num clusters: 166.2
+Average Improved num clusters: 160.9
+
+Average PM max cluster size: 4.7
+Average Improved max cluster size: 4.8
+
+Start: k = 6
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 18.999999999954994
+Total time: 7.737
+
+Finish
+
+PM times:
+7737.0 7737.0 7737.0 7737.0 7739.0 7737.0 7738.0 7738.0 7738.0 7738.0 
+
+PM scores:
+29 30 30 30 30 29 29 30 29 30
+
+Improved times:
+7737.0 7737.0 7750.0 7737.0 7737.0 7737.0 7737.0 7737.0 7738.0 7737.0
+
+Improved scores:
+29 29 28 28 28 28 28 29 28 28
+
+Average PM time: 7.7376000000000005
+Average Improved time: 7.7384
+
+Average PM score: 29.6
+Average Improved score: 28.3
+
+Average PM num clusters: 166.7
+Average Improved num clusters: 161.3
+
+Average PM max cluster size: 4.2
+Average Improved max cluster size: 5.0
+
+Start: k = 7
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 18.999999999954994
+Total time: 8.932
+
+Finish
+
+PM times:
+8933.0 8933.0 8933.0 8933.0 8933.0 8932.0 8932.0 8933.0 8933.0 8933.0
+
+PM scores:
+30 37 34 29 30 33 30 28 30 29
+
+Improved times:
+8932.0 8932.0 8932.0 8932.0 8932.0 8932.0 8932.0 8932.0 8932.0 8932.0
+
+Improved scores:
+28 28 28 29 29 28 28 28 28 29 
+
+Average PM time: 8.9328
+Average Improved time: 8.932
+
+Average PM score: 31.0
+Average Improved score: 28.3
+
+Average PM num clusters: 166.4
+Average Improved num clusters: 161.7
+
+Average PM max cluster size: 4.4
+Average Improved max cluster size: 4.5
+
+Start: k = 8
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 18.999999999954994
+Total time: 5.299
+
+Finish
+
+PM times:
+5300.0 5300.0 5300.0 5299.0 5299.0 5299.0 5299.0 5299.0 5299.0 5299.0 
+
+PM scores:
+34 35 29 30 30 29 30 29 29 29
+
+Improved times:
+5299.0 5299.0 5299.0 5299.0 5299.0 5299.0 5299.0 5299.0 5299.0 5299.0
+
+Improved scores:
+28 28 28 28 29 29 29 28 29 28
+
+Average PM time: 5.2993
+Average Improved time: 5.299
+
+Average PM score: 30.4
+Average Improved score: 28.4
+
+Average PM num clusters: 166.2
+Average Improved num clusters: 161.2
+
+Average PM max cluster size: 4.4
+Average Improved max cluster size: 4.7
+
+Start: k = 9
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 18.999999999954994
+Total time: 4.861
+
+Finish
+
+PM times:
+4861.0 4861.0 4861.0 4877.0 4861.0 4862.0 4862.0 4862.0 4862.0 4861.0
+
+PM scores:
+29 32 33 29 29 31 29 30 29 29 
+
+Improved times:
+4861.0 4861.0 4861.0 4861.0 4861.0 4861.0 4861.0 4861.0 4861.0 4861.0
+
+Improved scores:
+28 28 28 28 28 29 28 29 28 28
+
+Average PM time: 4.863
+Average Improved time: 4.860999999999999
+
+Average PM score: 30.0
+Average Improved score: 28.2
+
+Average PM num clusters: 166.0
+Average Improved num clusters: 161.3
+
+Average PM max cluster size: 4.3
+Average Improved max cluster size: 4.8
+
+Start: k = 10
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 18.999999999954994
+Total time: 4.67
+
+Finish
+
+PM times:
+4670.0 4670.0 4670.0 4670.0 4670.0 4670.0 4670.0 4670.0 4686.0 4670.0
+
+PM scores:
+30 33 33 30 33 32 34 29 29 33
+
+Improved times:
+4670.0 4670.0 4670.0 4670.0 4670.0 4670.0 4670.0 4670.0 4670.0 4670.0
+
+Improved scores:
+29 28 28 28 28 28 28 28 29 28 
+
+Average PM time: 4.671600000000001
+Average Improved time: 4.670000000000001
+
+Average PM score: 31.6
+Average Improved score: 28.2
+
+Average PM num clusters: 165.6
+Average Improved num clusters: 161.0
+
+Average PM max cluster size: 4.9
+Average Improved max cluster size: 4.8

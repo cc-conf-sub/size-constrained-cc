@@ -1,0 +1,298 @@
+PS C:\Users\10502190\Desktop\research_code\or-tools>  c:; cd 'c:\Users\10502190\Desktop\research_code\or-tools'; & 'C:\Users\10502190\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin\java.exe' '@C:\Users\10502190\AppData\Local\Temp\cp_9794tkz2bzrpy6xccvl824v1g.argfile' 'com.google.ortools.RunImprovedAlg' 
+Data set with 200 nodes
+Start: k = 2
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 541.6499999993836
+Total time: 10.936
+
+Finish
+
+Improved times:
+10944.0 10936.0 10945.0 10975.0 10940.0 10936.0 10936.0 10941.0 10936.0 10936.0
+
+Improved scores:
+677 678 677 676 676 679 677 674 677 675
+
+LS times:
+10944.0 10961.0 10948.0 10938.0 10936.0 10948.0 10936.0 10937.0 10936.0 10936.0
+
+LS scores:
+645 643 644 644 644 644 642 644 644 643
+
+Average Improved time: 10.9425
+Average LS time: 10.942000000000002
+
+Average Improved score: 676.6
+Average LS score: 643.7
+
+Average Improved num clusters: 136.6
+Average LS num clusters: 103.7
+
+Average Improved max cluster size: 2.0
+Average LS max cluster size: 2.0
+
+Start: k = 3
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 459.19669496313304
+Total time: 20.339
+
+Finish
+
+Improved times:
+20339.0 20348.0 20339.0 20346.0 20339.0 20343.0 20341.0 20339.0 20339.0 20347.0
+
+Improved scores:
+687 689 688 689 688 689 686 689 689 685
+
+LS times:
+20339.0 20339.0 20339.0 20339.0 20339.0 20339.0 20341.0 20339.0 20339.0 20339.0 
+
+LS scores:
+620 630 633 625 630 625 627 629 628 624
+
+Average Improved time: 20.342000000000002
+Average LS time: 20.339199999999998
+
+Average Improved score: 687.9
+Average LS score: 627.1
+
+Average Improved num clusters: 126.8
+Average LS num clusters: 83.3
+
+Average Improved max cluster size: 3.0
+Average LS max cluster size: 3.0
+
+Start: k = 4
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 404.8725055152021
+Total time: 18.778
+
+Finish
+
+Improved times:
+18778.0 18778.0 18778.0 18778.0 18795.0 18778.0 18780.0 18781.0 18782.0 18778.0
+
+Improved scores:
+712 708 706 707 712 702 706 708 710 712
+
+LS times:
+18778.0 18778.0 18778.0 18778.0 18778.0 18783.0 18779.0 18778.0 18778.0 18778.0
+
+LS scores:
+621 621 615 618 628 620 621 617 623 613
+
+Average Improved time: 18.7806
+Average LS time: 18.778599999999997
+
+Average Improved score: 708.3
+Average LS score: 619.7
+
+Average Improved num clusters: 137.2
+Average LS num clusters: 79.7
+
+Average Improved max cluster size: 4.0
+Average LS max cluster size: 4.0
+
+Start: k = 5
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 371.9166666666665
+Total time: 14.205
+
+Finish
+
+Improved times:
+14205.0 14205.0 14205.0 14205.0 14205.0 14205.0 14205.0 14205.0 14205.0 14207.0
+
+Improved scores:
+721 715 718 715 718 718 712 720 713 713
+
+LS times:
+14205.0 14205.0 14205.0 14205.0 14205.0 14205.0 14205.0 14205.0 14220.0 14205.0
+
+LS scores:
+627 616 630 625 608 623 628 627 613 619
+
+Average Improved time: 14.2052
+Average LS time: 14.2065
+
+Average Improved score: 716.3
+Average LS score: 621.6
+
+Average Improved num clusters: 123.3
+Average LS num clusters: 78.2
+
+Average Improved max cluster size: 5.0
+Average LS max cluster size: 4.7
+
+Start: k = 6
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 355.11764705882354
+Total time: 10.039
+
+Finish
+
+Improved times:
+10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10039.0
+
+Improved scores:
+743 738 733 732 736 727 733 719 722 738
+
+LS times:
+10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10039.0 10054.0
+
+LS scores:
+614 622 626 626 619 622 623 623 617 633
+
+Average Improved time: 10.039
+Average LS time: 10.0405
+
+Average Improved score: 732.1
+Average LS score: 622.5
+
+Average Improved num clusters: 119.6
+Average LS num clusters: 78.6
+
+Average Improved max cluster size: 5.9
+Average LS max cluster size: 4.4
+
+Start: k = 7
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 347.49999995401856
+Total time: 6.168
+
+Finish
+
+Improved times:
+6168.0 6168.0 6168.0 6168.0 6168.0 6168.0 6168.0 6168.0 6174.0 6168.0
+
+Improved scores:
+737 745 743 748 743 723 725 730 750 751
+
+LS times:
+6168.0 6168.0 6183.0 6170.0 6168.0 6168.0 6168.0 6168.0 6168.0 6169.0
+
+LS scores:
+625 618 624 632 621 622 627 619 616 621
+
+Average Improved time: 6.1686
+Average LS time: 6.1697999999999995
+
+Average Improved score: 739.5
+Average LS score: 622.5
+
+Average Improved num clusters: 110.6
+Average LS num clusters: 76.6
+
+Average Improved max cluster size: 6.7
+Average LS max cluster size: 4.6
+
+Start: k = 8
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 343.9999999833692
+Total time: 5.453
+
+Finish
+
+Improved times:
+5453.0 5453.0 5453.0 5453.0 5453.0 5453.0 5469.0 5453.0 5453.0 5453.0
+
+Improved scores:
+752 761 768 754 761 752 772 727 756 768
+
+LS times:
+5453.0 5453.0 5453.0 5453.0 5453.0 5453.0 5454.0 5453.0 5453.0 5456.0
+
+LS scores:
+628 622 627 622 627 635 628 624 627 627 
+
+Average Improved time: 5.454600000000001
+Average LS time: 5.453400000000001
+
+Average Improved score: 757.1
+Average LS score: 626.7
+
+Average Improved num clusters: 81.5
+Average LS num clusters: 73.4
+
+Average Improved max cluster size: 7.4
+Average LS max cluster size: 4.6
+
+Start: k = 9
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 343.999999949975
+Total time: 5.381
+
+Finish
+
+Improved times:
+5390.0 5381.0 5381.0 5381.0 5381.0 5381.0 5381.0 5381.0 5381.0 5381.0
+
+Improved scores:
+749 752 729 770 744 750 751 740 728 776
+
+LS times:
+5381.0 5381.0 5381.0 5381.0 5381.0 5381.0 5381.0 5381.0 5381.0 5698.0
+
+LS scores:
+626 624 628 631 622 629 614 631 619 625
+
+Average Improved time: 5.3819
+Average LS time: 5.4127
+
+Average Improved score: 748.9
+Average LS score: 624.9
+
+Average Improved num clusters: 83.6
+Average LS num clusters: 74.5
+
+Average Improved max cluster size: 7.6
+Average LS max cluster size: 4.4
+
+Start: k = 10
+Number of variables = 39800
+Constraints so far = 20100
+Number of constraints = 1333500
+LP Objective value = 343.999999949975
+Total time: 5.706
+
+Finish
+
+Improved times: 
+5706.0 5706.0 5706.0 5706.0 5706.0 5706.0 5708.0 5706.0 5706.0 5706.0
+
+Improved scores:
+741 772 770 744 737 756 774 725 757 759
+
+LS times:
+5706.0 5706.0 5706.0 5706.0 5706.0 5721.0 5706.0 5706.0 5706.0 5712.0
+
+LS scores:
+630 622 617 626 628 627 628 630 630 623
+
+Average Improved time: 5.706200000000001
+Average LS time: 5.708100000000002
+
+Average Improved score: 753.5
+Average LS score: 626.1
+
+Average Improved num clusters: 81.9
+Average LS num clusters: 73.7
+
+Average Improved max cluster size: 8.3
+Average LS max cluster size: 4.6
