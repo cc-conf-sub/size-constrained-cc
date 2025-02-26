@@ -1,6 +1,7 @@
 Data Format:
 * Data files are stored in Data/[name of data set]/graph.txt
   * Small data sets (allsports, captchas, cora200, gym) are provided
+  * Large data sets (youtube, livejournal, orkut) are available at https://snap.stanford.edu/data/#communities
 * Delimiter is hard-coded in driver files
 * For Correlation Clustering: 
   * The first line of the file must contain the total number of nodes (anything that follows it on the line will be ignored)
@@ -18,8 +19,8 @@ RunImprovedAlg.java
 * Method: Ji et al. LP rounding for uniform constraints
 * Requires Google OR-Tools (developers.google.com/optimization)
 
-RunMaxKCorrelation.java
-* Method: Pivot, Vote, Pivot and Adjust
+RunPivotAndAdjust.java
+* Method: Pivot, Vote, Pivot and Vote
 
 RunPmAlg.java
 * Method: Puleo and Milenkovic LP rounding for uniform constraints
@@ -31,6 +32,9 @@ RunUniformILP.java
 
 Code Files
 ----------
+
+Hybrid.java
+* Forms subgraphs for Pivot and Vote
 
 DNode.java
 * Implementations of Vote
