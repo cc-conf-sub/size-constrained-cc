@@ -1,0 +1,300 @@
+PS C:\Users\10502190\Desktop\research_code\or-tools> ^C
+PS C:\Users\10502190\Desktop\research_code\or-tools> 
+PS C:\Users\10502190\Desktop\research_code\or-tools>  c:; cd 'c:\Users\10502190\Desktop\research_code\or-tools'; & 'C:\Users\10502190\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin\java.exe' '@C:\Users\10502190\AppData\Local\Temp\cp_9794tkz2bzrpy6xccvl824v1g.argfile' 'com.google.ortools.RunPMAlg' 
+Data set with 94 nodes
+Start: k = 2
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 418.0
+Total time: 0.794
+
+Finish
+
+PM times:
+795.0 794.0 794.0 794.0 804.0 794.0 794.0 794.0 814.0 799.0
+
+PM scores:
+424 424 424 424 424 424 424 424 424 424
+
+Improved times:
+798.0 794.0 794.0 794.0 794.0 796.0 794.0 799.0 794.0 795.0
+
+Improved scores:
+420 419 419 419 419 420 419 420 419 419
+
+Average PM time: 0.7976000000000002
+Average Improved time: 0.7952
+
+Average PM score: 424.0
+Average Improved score: 419.3
+
+Average PM num clusters: 53.0
+Average Improved num clusters: 48.3
+
+Average PM max cluster size: 2.0
+Average Improved max cluster size: 2.0
+
+Start: k = 3
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 372.6666666666666
+Total time: 1.287
+
+Finish
+
+PM times:
+1287.0 1288.0 1287.0 1287.0 1287.0 1287.0 1287.0 1287.0 1295.0 1287.0 
+
+PM scores:
+436 436 436 439 441 438 434 437 438 435
+
+Improved times:
+1303.0 1287.0 1290.0 1292.0 1292.0 1290.0 1287.0 1287.0 1287.0 1287.0 
+
+Improved scores:
+382 386 383 386 385 386 389 385 388 386
+
+Average PM time: 1.2879
+Average Improved time: 1.2901999999999998
+
+Average PM score: 437.0
+Average Improved score: 385.6
+
+Average PM num clusters: 66.6
+Average Improved num clusters: 35.2
+
+Average PM max cluster size: 3.0
+Average Improved max cluster size: 3.0
+
+Start: k = 4
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 328.50000000000006
+Total time: 2.534
+
+Finish
+
+PM times:
+2534.0 2534.0 2534.0 2534.0 2534.0 2549.0 2534.0 2534.0 2534.0 2541.0 
+
+PM scores:
+415 425 424 421 426 426 427 435 425 430
+
+Improved times:
+2534.0 2534.0 2534.0 2534.0 2534.0 2536.0 2534.0 2534.0 2534.0 2538.0
+
+Improved scores:
+357 356 358 360 356 359 353 358 351 355
+
+Average PM time: 2.5361999999999996
+Average Improved time: 2.5345999999999997
+
+Average PM score: 425.4
+Average Improved score: 356.3
+
+Average PM num clusters: 56.2
+Average Improved num clusters: 29.0
+
+Average PM max cluster size: 3.9
+Average Improved max cluster size: 4.0
+
+Start: k = 5
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 288.0335917312663
+Total time: 4.347
+
+Finish
+
+PM times:
+4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 
+
+PM scores:
+416 425 407 421 419 425 420 422 418 420
+
+Improved times:
+4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0 4347.0
+
+Improved scores: 
+331 342 330 333 338 337 333 336 334 337
+
+Average PM time: 4.347
+Average Improved time: 4.347
+
+Average PM score: 419.3
+Average Improved score: 335.1
+
+Average PM num clusters: 54.2
+Average Improved num clusters: 25.3
+
+Average PM max cluster size: 4.2
+Average Improved max cluster size: 5.0
+
+Start: k = 6
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 255.0831466943633
+Total time: 4.785
+
+Finish
+
+PM times:
+4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 
+
+PM scores:
+435 420 438 423 425 428 415 419 424 424
+
+Improved times:
+4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0 4785.0
+
+Improved scores:
+319 319 322 318 324 318 320 316 323 324
+
+Average PM time: 4.784999999999999
+Average Improved time: 4.784999999999999
+
+Average PM score: 425.1
+Average Improved score: 320.3
+
+Average PM num clusters: 56.8
+Average Improved num clusters: 24.0
+
+Average PM max cluster size: 5.5
+Average Improved max cluster size: 6.0
+
+Start: k = 7
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 229.45358742367654
+Total time: 3.384
+
+Finish
+
+PM times:
+3384.0 3384.0 3384.0 3384.0 3384.0 3384.0 3384.0 3384.0 3384.0 3384.0
+
+PM scores:
+418 409 411 419 407 419 413 400 414 410 
+
+Improved times:
+3384.0 3384.0 3384.0 3399.0 3384.0 3384.0 3384.0 3384.0 3384.0 3384.0
+
+Improved scores:
+291 299 303 299 288 294 298 288 303 293
+
+Average PM time: 3.3839999999999995
+Average Improved time: 3.3854999999999995
+
+Average PM score: 412.0
+Average Improved score: 295.6
+
+Average PM num clusters: 53.2
+Average Improved num clusters: 21.7
+
+Average PM max cluster size: 6.7
+Average Improved max cluster size: 7.0
+
+Start: k = 8
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 209.05076009995847
+Total time: 3.549
+
+Finish
+
+PM times:
+3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0
+
+PM scores:
+396 421 407 399 411 401 403 407 413 414
+
+Improved times:
+3564.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 3549.0 
+
+Improved scores:
+282 300 281 294 274 283 274 287 282 286
+
+Average PM time: 3.5490000000000004
+Average Improved time: 3.5504999999999995
+
+Average PM score: 407.2
+Average Improved score: 284.3
+
+Average PM num clusters: 52.2
+Average Improved num clusters: 20.5
+
+Average PM max cluster size: 7.0
+Average Improved max cluster size: 8.0
+
+Start: k = 9
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 194.61069412503798
+Total time: 3.56
+
+Finish
+
+PM times:
+3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0
+
+PM scores:
+393 366 394 381 399 390 417 368 373 391
+
+Improved times:
+3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3576.0 3560.0 
+
+Improved scores:
+278 268 283 276 273 283 272 284 274 279
+
+Average PM time: 3.56
+Average Improved time: 3.5616
+
+Average PM score: 387.2
+Average Improved score: 277.0
+
+Average PM num clusters: 49.3
+Average Improved num clusters: 20.4
+
+Average PM max cluster size: 8.5
+Average Improved max cluster size: 9.3
+
+Start: k = 10
+Number of variables = 8742
+Constraints so far = 4465
+Number of constraints = 138509
+LP Objective value = 183.7763199141388
+Total time: 3.56
+
+Finish
+
+PM times:
+3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0
+
+PM scores:
+387 347 388 384 363 370 350 358 353 369 
+
+Improved times:
+3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0 3560.0
+
+Improved scores:
+274 267 270 267 264 269 269 276 271 274
+
+Average PM time: 3.56
+Average Improved time: 3.56
+
+Average PM score: 366.9
+Average Improved score: 270.1
+
+Average PM num clusters: 37.1
+Average Improved num clusters: 20.7
+
+Average PM max cluster size: 8.8
+Average Improved max cluster size: 10.0

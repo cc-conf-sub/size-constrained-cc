@@ -1,0 +1,423 @@
+PS C:\Users\10502190\Desktop\research_code\size_cc>  c:; cd 'c:\Users\10502190\Desktop\research_code\size_cc'; & 'C:\Users\10502190\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\10502190\AppData\Roaming\Code\User\workspaceStorage\fd38c9aa8d78bc7b3337be24f9cdc55a\redhat.java\jdt_ws\size_cc_4f092a0d\bin' 'RunMaxKCorrelation' 
+Start: k = 2
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0
+
+Pivot scores:
+37 38 37 37 37 36 36 36 38 37 36 36 36 37 36 36 36 36 36 37 
+
+PLS times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0
+
+PLS scores: 
+40 39 39 39 39 37 40 39 39 40 38 38 40 40 39 40 40 41 39 40
+
+Vote times:
+16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0
+
+Vote scores:
+37 36 37 37 37 36 36 36 36 35 36 37 36 38 36 37 37 36 35 37
+
+Adjust times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0
+
+Adjust scores:
+40 40 41 40 39 40 39 38 42 38 40 39 40 39 40 40 39 38 39 40 
+
+Average Pivot time: 1.0E-4
+Average PLS time: 1.5000000000000001E-4
+Average Vote time: 0.00135
+Average Adjust time: 9.000000000000001E-4
+
+Average Pivot score: 36.55
+Average PLS score: 39.3
+Average Vote score: 36.4
+Average Adjust score: 39.55
+
+Average Pivot num clusters: 171.55
+Average PLS num clusters: 174.3
+Average Vote num clusters: 171.4
+Average Adjust num clusters: 174.55
+
+Average Pivot max cluster size: 2.0
+Average PLS max cluster size: 2.0
+Average Vote max cluster size: 2.0
+Average Adjust max cluster size: 2.0
+
+Start: k = 3
+Finish
+
+Pivot times:
+0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.0 0.0 1.0
+
+Pivot scores:
+35 32 34 32 35 34 33 36 35 34 31 31 33 35 32 34 33 34 32 32
+
+PLS times:
+1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0
+
+PLS scores:
+37 35 35 33 37 37 33 34 32 31 35 37 31 37 35 35 35 38 31 35
+
+Vote times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.0 0.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0
+
+Vote scores:
+34 30 35 33 32 36 34 34 35 33 36 40 36 35 34 34 32 38 33 37
+
+Adjust times:
+0.0 2.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+37 35 32 37 39 33 34 38 35 33 31 38 33 36 38 32 36 38 38 36
+
+Average Pivot time: 5.499999999999999E-4
+Average PLS time: 3.0000000000000003E-4
+Average Vote time: 9.000000000000001E-4
+Average Adjust time: 2.0E-4
+
+Average Pivot score: 33.35
+Average PLS score: 34.65
+Average Vote score: 34.55
+Average Adjust score: 35.45
+
+Average Pivot num clusters: 167.65
+Average PLS num clusters: 169.6
+Average Vote num clusters: 165.95
+Average Adjust num clusters: 169.0
+
+Average Pivot max cluster size: 3.0
+Average PLS max cluster size: 3.0
+Average Vote max cluster size: 3.0
+Average Adjust max cluster size: 3.0
+
+Start: k = 4
+Finish
+
+Pivot times:
+0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+39 31 30 31 33 33 31 34 33 35 31 34 33 32 34 38 34 38 31 31
+
+PLS times:
+1.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0
+
+PLS scores:
+31 35 32 33 34 33 35 30 36 30 36 34 32 32 32 33 36 32 35 31
+
+Vote times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Vote scores:
+30 28 29 29 31 28 28 33 30 32 32 32 29 29 33 30 33 33 30 30
+
+Adjust times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+32 33 32 33 33 31 30 35 34 36 35 35 36 35 30 34 30 30 35 31
+
+Average Pivot time: 8.0E-4
+Average PLS time: 2.0E-4
+Average Vote time: 0.0
+Average Adjust time: 0.0
+
+Average Pivot score: 33.3
+Average PLS score: 33.1
+Average Vote score: 30.45
+Average Adjust score: 33.0
+
+Average Pivot num clusters: 166.35
+Average PLS num clusters: 168.65
+Average Vote num clusters: 162.95
+Average Adjust num clusters: 167.45
+
+Average Pivot max cluster size: 4.0
+Average PLS max cluster size: 3.95
+Average Vote max cluster size: 4.0
+Average Adjust max cluster size: 4.0
+
+Start: k = 5
+Finish
+
+Pivot times: 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+29 38 40 29 33 33 31 32 32 31 38 37 31 37 40 29 32 33 34 30
+
+PLS times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+PLS scores:
+30 32 31 33 29 32 31 33 31 33 30 32 37 32 30 30 31 29 34 30
+
+Vote times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Vote scores:
+29 30 30 28 29 29 30 30 30 32 31 29 28 30 30 30 31 29 29 29
+
+Adjust times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+36 32 31 35 33 31 33 33 37 32 29 35 31 33 34 35 33 33 34 31
+
+Average Pivot time: 0.0
+Average PLS time: 0.0
+Average Vote time: 0.0
+Average Adjust time: 0.0
+
+Average Pivot score: 33.45
+Average PLS score: 31.5
+Average Vote score: 29.65
+Average Adjust score: 33.05
+
+Average Pivot num clusters: 166.15
+Average PLS num clusters: 167.65
+Average Vote num clusters: 163.35
+Average Adjust num clusters: 166.5
+
+Average Pivot max cluster size: 4.65
+Average PLS max cluster size: 4.25
+Average Vote max cluster size: 4.6
+Average Adjust max cluster size: 4.65
+
+Start: k = 6
+Finish
+
+Pivot times:
+14.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+30 48 35 33 40 31 33 43 36 32 31 33 36 38 42 31 38 38 30 36
+
+PLS times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+PLS scores: 
+31 32 31 30 30 33 31 30 34 33 31 32 31 36 32 32 31 30 33 33
+
+Vote times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Vote scores:
+28 33 28 34 29 29 30 30 32 29 30 29 32 31 29 28 29 29 29 30
+
+Adjust times:
+0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+32 29 30 37 33 30 35 32 31 35 33 31 31 34 33 33 31 32 30 32
+
+Average Pivot time: 7.0E-4
+Average PLS time: 0.0
+Average Vote time: 0.0
+Average Adjust time: 5.0E-5
+
+Average Pivot score: 35.7
+Average PLS score: 31.8
+Average Vote score: 29.9
+Average Adjust score: 32.2
+
+Average Pivot num clusters: 165.85
+Average PLS num clusters: 168.35
+Average Vote num clusters: 163.05
+Average Adjust num clusters: 165.95
+
+Average Pivot max cluster size: 5.1
+Average PLS max cluster size: 4.15
+Average Vote max cluster size: 4.6
+Average Adjust max cluster size: 4.65
+
+Start: k = 7
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+31 40 34 33 38 29 29 32 31 32 36 37 39 46 44 32 32 40 34 34
+
+PLS times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+PLS scores:
+32 30 30 31 36 30 35 35 31 34 29 33 36 33 33 33 33 33 31 31 
+
+Vote times:
+13.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Vote scores:
+28 30 31 30 33 30 28 29 31 28 30 31 28 29 31 29 32 31 30 33
+
+Adjust times:
+0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+35 31 34 32 45 31 32 38 33 32 32 34 31 30 31 36 35 34 34 34
+
+Average Pivot time: 0.0
+Average PLS time: 0.0
+Average Vote time: 6.999999999999999E-4
+Average Adjust time: 5.0E-5
+
+Average Pivot score: 35.15
+Average PLS score: 32.45
+Average Vote score: 30.1
+Average Adjust score: 33.7
+
+Average Pivot num clusters: 165.5
+Average PLS num clusters: 168.65
+Average Vote num clusters: 163.5
+Average Adjust num clusters: 166.2
+
+Average Pivot max cluster size: 5.35
+Average PLS max cluster size: 4.1
+Average Vote max cluster size: 4.7
+Average Adjust max cluster size: 4.9
+
+Start: k = 8
+Finish
+
+Pivot times:
+0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+34 31 34 32 33 43 32 30 34 30 30 31 47 32 29 35 31 45 34 31 
+
+PLS times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+PLS scores:
+33 30 34 31 32 30 31 31 29 33 29 30 33 32 33 34 30 33 30 32
+
+Vote times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Vote scores:
+34 29 35 28 29 29 29 28 34 30 28 29 29 28 29 29 29 29 29 30
+
+Adjust times:
+0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+30 31 38 33 33 32 34 32 29 31 34 42 35 36 37 33 33 35 32 33
+
+Average Pivot time: 5.0E-5
+Average PLS time: 0.0
+Average Vote time: 0.0
+Average Adjust time: 5.0E-5
+
+Average Pivot score: 33.9
+Average PLS score: 31.5
+Average Vote score: 29.7
+Average Adjust score: 33.65
+
+Average Pivot num clusters: 165.55
+Average PLS num clusters: 168.1
+Average Vote num clusters: 163.2
+Average Adjust num clusters: 166.2
+
+Average Pivot max cluster size: 5.05
+Average PLS max cluster size: 4.05
+Average Vote max cluster size: 4.65
+Average Adjust max cluster size: 4.85
+
+Start: k = 9
+Finish
+
+Pivot times:
+14.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+Pivot scores:
+31 32 62 32 41 30 33 36 41 42 52 46 45 31 30 36 46 43 44 31
+
+PLS times:
+1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+PLS scores:
+30 35 36 31 31 36 35 31 37 31 31 32 33 33 31 34 32 35 31 32
+
+Vote times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Vote scores:
+29 30 30 31 31 31 34 29 29 31 28 33 30 28 28 31 28 29 31 33
+
+Adjust times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+31 30 43 30 30 31 32 31 35 36 30 32 35 33 32 34 31 54 34 33
+
+Average Pivot time: 7.0E-4
+Average PLS time: 5.0E-5
+Average Vote time: 0.0
+Average Adjust time: 0.0
+
+Average Pivot score: 39.2
+Average PLS score: 32.85
+Average Vote score: 30.2
+Average Adjust score: 33.85
+
+Average Pivot num clusters: 164.95
+Average PLS num clusters: 168.5
+Average Vote num clusters: 163.25
+Average Adjust num clusters: 165.8
+
+Average Pivot max cluster size: 6.2
+Average PLS max cluster size: 3.95
+Average Vote max cluster size: 4.85
+Average Adjust max cluster size: 5.15
+
+Start: k = 10
+Finish
+
+Pivot times:
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Pivot scores:
+33 33 31 30 42 40 53 50 31 33 33 30 35 30 45 32 30 32 32 33
+
+PLS times:
+0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+PLS scores:
+31 29 36 32 33 35 30 31 32 32 30 32 31 31 29 32 31 29 31 33
+
+Vote times:
+1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 14.0 1.0 0.0 1.0
+
+Vote scores:
+30 29 30 29 29 29 30 29 29 28 28 33 29 31 28 31 30 30 31 32
+
+Adjust times:
+1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+Adjust scores:
+30 36 34 31 33 42 43 30 33 31 30 30 46 33 36 52 34 31 31 33
+
+Average Pivot time: 0.0
+Average PLS time: 5.0E-5
+Average Vote time: 8.500000000000001E-4
+Average Adjust time: 5.0E-5
+
+Average Pivot score: 35.4
+Average PLS score: 31.5
+Average Vote score: 29.75
+Average Adjust score: 34.95
+
+Average Pivot num clusters: 165.3
+Average PLS num clusters: 167.95
+Average Vote num clusters: 162.9
+Average Adjust num clusters: 165.25
+
+Average Pivot max cluster size: 5.45
+Average PLS max cluster size: 4.15
+Average Vote max cluster size: 4.7
+Average Adjust max cluster size: 5.5

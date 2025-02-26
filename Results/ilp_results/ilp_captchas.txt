@@ -1,0 +1,78 @@
+PS C:\Users\natha\Desktop\code_projects\or-tools>  & 'C:\Users\natha\AppData\Local\Programs\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java.exe' '@C:\Users\natha\AppData\Local\Temp\cp_1qzf5ynuixc7q3f1ud390h8b2.argfile' 'com.google.ortools.RunUniformILP' 
+Data set with 244 nodes
+Start: k = 2
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 489.0
+Total time: 126.149
+
+Start: k = 3
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 373.0
+Total time: 67.191
+
+Start: k = 4
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 286.0
+Total time: 75.963
+
+Start: k = 5
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 211.0
+Total time: 111.587
+
+Start: k = 6
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 157.0
+Total time: 128.445
+
+Start: k = 7
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 117.0
+Total time: 75.446
+
+Start: k = 8
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 95.0
+Total time: 68.366
+
+Start: k = 9
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 74.0
+Total time: 63.257
+
+Start: k = 10
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 65.0
+Total time: 167.358
+
+Start: k = 11
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 56.0
+Total time: 97.298
+
+Start: k = 12
+Number of variables = 59292
+Constraints so far = 29890
+Number of constraints = 2421334
+LP Objective value = 50.0
+Total time: 63.027
